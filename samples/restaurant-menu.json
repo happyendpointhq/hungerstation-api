@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "vendor_id": 6944,
+    "name": "Kudu",
+    "currency": "SAR",
+    "total_sections": 13,
+    "total_items": 113,
+    "sections": [
+      {
+        "section_id": 4638486,
+        "name": "Kudu Chicken Krunchy",
+        "item_count": 4,
+        "items": [
+          {
+            "item_id": 129887015,
+            "name": "Korean Kick Sandwich",
+            "description": "Crispy chicken with bold korean inspired sauce, cheese, fresh lettuce, tomato, served on a soft potato bun.",
+            "price": 29,
+            "calories": null,
+            "image": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/HS-Kudu/3e33cacbd88bdb62a5305d0747bfa49a?width=222",
+            "image_full": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/HS-Kudu/3e33cacbd88bdb62a5305d0747bfa49a"
+          },
+          {
+            "item_id": 129887108,
+            "name": "Korean Kick Combo",
+            "description": "Crispy chicken with bold korean inspired sauce, cheese, fresh lettuce, tomato, served on soft potato bun with fries and drink.",
+            "price": 39,
+            "calories": null,
+            "image": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/HS-Kudu/7d5b8447ed53713ec9d78981e4b2dd1d?width=222",
+            "image_full": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/HS-Kudu/7d5b8447ed53713ec9d78981e4b2dd1d"
+          }
+        ]
+      }
+    ]
+  }
+}

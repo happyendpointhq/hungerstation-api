@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": {
+    "city": {
+      "city_id": 3,
+      "slug": "riyadh",
+      "slug_ar": "الرياض",
+      "name_en": "Riyadh",
+      "name_ar": "الرياض"
+    },
+    "districts": [
+      {
+        "district_id": 85,
+        "slug": "imam-mohamed-islamic-university",
+        "slug_ar": "جامعة-الامام-محمد",
+        "name_en": "Imam Muhammad Ibn Saud Islamic University",
+        "name_ar": "جامعة الامام محمد"
+      },
+      {
+        "district_id": 66,
+        "slug": "dubiyah",
+        "slug_ar": "الدوبيه",
+        "name_en": "Dubiyah",
+        "name_ar": "الدوبيه"
+      }
+    ],
+    "total": 171
+  }
+}

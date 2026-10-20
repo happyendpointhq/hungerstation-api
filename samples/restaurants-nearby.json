@@ -1,0 +1,242 @@
+{
+  "success": true,
+  "data": {
+    "latitude": 24.81338091423363,
+    "longitude": 46.70321613550186,
+    "vertical": "restaurants",
+    "expedition": "delivery",
+    "sort": "recommended",
+    "cuisine_ids": null,
+    "filters": null,
+    "language": "en",
+    "page": 1,
+    "limit": 20,
+    "total_count": 1387,
+    "has_more": true,
+    "vendors": [
+      {
+        "vendor_id": 44388,
+        "external_id": null,
+        "chain_id": 19816,
+        "brand_id": 129,
+        "name": "Falafel Themar",
+        "chain_type": "RESTAURANT",
+        "vertical": "restaurants",
+        "cuisines": [
+          "Sandwiches",
+          "Fast Food"
+        ],
+        "rating": 4.4,
+        "rating_count": 185,
+        "status": "OPEN",
+        "status_indicator": null,
+        "label": null,
+        "sponsored": false,
+        "tags": [
+          {
+            "type": "TOP",
+            "label": "Top Choice",
+            "icon": "https://vendor-search.hungerstation.com//assets/images/restaurants/default_top_vendor.png"
+          }
+        ],
+        "promotions": [
+          {
+            "type": "FREE_DELIVERY",
+            "name": "Free delivery (Spend 15 SAR)",
+            "category": "BLUE",
+            "minimum_order": 15,
+            "icon_url": "https://images.deliveryhero.io/image/hungerstation/offers/icons/vendor-offer-blue-icon.png"
+          },
+          {
+            "type": "MENU_ITEM_DISCOUNT",
+            "name": "25% off on selected items",
+            "category": "RED",
+            "minimum_order": 0,
+            "icon_url": "https://images.deliveryhero.io/image/hungerstation/offers/icons/vendor-offer-red-icon.png"
+          }
+        ],
+        "incentives": [
+          {
+            "incentive_id": "58877",
+            "name": "Free Delivery & SR10 Voucher",
+            "type": "FREE_DELIVERY",
+            "minimum_order": 15,
+            "icon_url": "https://hungerstation.dhmedia.io/image/hungerstation/rewards/icons/delivery_en.png"
+          },
+          {
+            "incentive_id": "0031e134-437e-4086-8601-2823af8ef41c",
+            "name": "25% off on selected items",
+            "type": "MENU_ITEM_DISCOUNT",
+            "minimum_order": 0,
+            "icon_url": "https://images.deliveryhero.io/image/hungerstation/offers/icons/vendor-offer-red-icon.png"
+          }
+        ],
+        "subscription_supported": true,
+        "delivery_type": "OWN_DELIVERY",
+        "delivery_name": "Fast Delivery",
+        "delivery_fee": 17,
+        "delivery_fee_is_default": false,
+        "delivery_fee_original": 17,
+        "delivery_fee_indicator": "NONE",
+        "delivery_fee_style": "FREE",
+        "delivery_fee_style_legacy": "STRIKETHROUGH",
+        "minimum_order": 15,
+        "distance": 1.6,
+        "distance_unit": "km",
+        "eta_min": 10,
+        "eta_max": 25,
+        "eta_text": "10 - 25",
+        "eta_unit": "mins",
+        "price_range": {
+          "rank": 1,
+          "total": 3
+        },
+        "supports_immediate_order": true,
+        "supports_scheduled_order": true,
+        "supports_pickup": false,
+        "expedition_types": [
+          "delivery"
+        ],
+        "is_most_loved": false,
+        "latitude": 24.799694,
+        "longitude": 46.697331,
+        "logo": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo/c2c579d5036eb6150540dd59a39b9572.jpg",
+        "cover_photo": "https://images.deliveryhero.io/image/hungerstation/restaurant/android_cover_photo/5515e954dbd7bdba1ac50f719f3e9682.jpg",
+        "url": "https://hungerstation.com/sa-en/restaurants/regions/riyadh/imam-mohamed-islamic-university/falafel-themar-44388",
+        "featured_items": [
+          {
+            "item_id": 92828437,
+            "name": "Falafel Plate Regular",
+            "image": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/HS-FFTL/c5a129d57c19a266b56f3c5215b00391.png",
+            "price": 26,
+            "discounted_price": null,
+            "discount_percentage": null,
+            "source": "best_seller",
+            "badge": "Best seller"
+          },
+          {
+            "item_id": 92828537,
+            "name": "Falafel Pie",
+            "image": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/HS-FFTL/0d3f0cac469b84830db67c8a7ba0fa66.jpg",
+            "price": 18,
+            "discounted_price": null,
+            "discount_percentage": null,
+            "source": "best_seller",
+            "badge": "Best seller"
+          }
+        ]
+      },
+      {
+        "vendor_id": 6447,
+        "external_id": null,
+        "chain_id": 1418,
+        "brand_id": 115,
+        "name": "Shawarmer",
+        "chain_type": "RESTAURANT",
+        "vertical": "restaurants",
+        "cuisines": [
+          "Desserts"
+        ],
+        "rating": 4.2,
+        "rating_count": 367,
+        "status": "OPEN",
+        "status_indicator": null,
+        "label": null,
+        "sponsored": false,
+        "tags": [
+          {
+            "type": "TOP",
+            "label": "Top Choice",
+            "icon": "https://vendor-search.hungerstation.com//assets/images/restaurants/default_top_vendor.png"
+          }
+        ],
+        "promotions": [
+          {
+            "type": "FREE_DELIVERY",
+            "name": "Free delivery (Spend 15 SAR)",
+            "category": "BLUE",
+            "minimum_order": 15,
+            "icon_url": "https://images.deliveryhero.io/image/hungerstation/offers/icons/vendor-offer-blue-icon.png"
+          },
+          {
+            "type": "MENU_ITEM_DISCOUNT",
+            "name": "39% off on selected items",
+            "category": "RED",
+            "minimum_order": 0,
+            "icon_url": "https://images.deliveryhero.io/image/hungerstation/offers/icons/vendor-offer-red-icon.png"
+          }
+        ],
+        "incentives": [
+          {
+            "incentive_id": "58877",
+            "name": "Free Delivery & SR10 Voucher",
+            "type": "FREE_DELIVERY",
+            "minimum_order": 15,
+            "icon_url": "https://hungerstation.dhmedia.io/image/hungerstation/rewards/icons/delivery_en.png"
+          },
+          {
+            "incentive_id": "f195525b-cb24-4f59-bd30-f254932055cb",
+            "name": "39% off on selected items",
+            "type": "MENU_ITEM_DISCOUNT",
+            "minimum_order": 0,
+            "icon_url": "https://images.deliveryhero.io/image/hungerstation/offers/icons/vendor-offer-red-icon.png"
+          }
+        ],
+        "subscription_supported": true,
+        "delivery_type": "OWN_DELIVERY",
+        "delivery_name": "Fast Delivery",
+        "delivery_fee": 17,
+        "delivery_fee_is_default": false,
+        "delivery_fee_original": 17,
+        "delivery_fee_indicator": "NONE",
+        "delivery_fee_style": "FREE",
+        "delivery_fee_style_legacy": "STRIKETHROUGH",
+        "minimum_order": 15,
+        "distance": 1.8,
+        "distance_unit": "km",
+        "eta_min": 10,
+        "eta_max": 20,
+        "eta_text": "10 - 20",
+        "eta_unit": "mins",
+        "price_range": {
+          "rank": 2,
+          "total": 3
+        },
+        "supports_immediate_order": true,
+        "supports_scheduled_order": true,
+        "supports_pickup": false,
+        "expedition_types": [
+          "delivery"
+        ],
+        "is_most_loved": false,
+        "latitude": 24.798327,
+        "longitude": 46.697035,
+        "logo": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo/db1a1ac25142e1f9a8f2977e50dd95fd.jpg",
+        "cover_photo": "https://images.deliveryhero.io/image/hungerstation/restaurant/android_cover_photo/a9b903a9d2afac6ae03980aef1b10d35.jpg",
+        "url": "https://hungerstation.com/sa-en/restaurants/regions/riyadh/imam-mohamed-islamic-university/shawarmer-6447",
+        "featured_items": [
+          {
+            "item_id": 97015526,
+            "name": "Alrahiyah Meal",
+            "image": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/SH-HS/6478cbb8a0cd846eeb84184f3cd6cc7d.png",
+            "price": 42,
+            "discounted_price": null,
+            "discount_percentage": null,
+            "source": "best_seller",
+            "badge": "Best seller"
+          },
+          {
+            "item_id": 97015577,
+            "name": "Arabo Chicken Meal",
+            "image": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/ME/chains/SH-HS/3a9b868410e527db02f71ce641872237.png",
+            "price": 40,
+            "discounted_price": null,
+            "discount_percentage": null,
+            "source": "best_seller",
+            "badge": "Best seller"
+          }
+        ]
+      }
+    ]
+  }
+}

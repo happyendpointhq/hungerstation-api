@@ -1,0 +1,312 @@
+{
+  "success": true,
+  "data": {
+    "query": "milk",
+    "latitude": 24.81338091423363,
+    "longitude": 46.70321613550186,
+    "vertical": "grocery",
+    "filters": null,
+    "language": "en",
+    "page": 1,
+    "limit": 20,
+    "total": 24,
+    "has_more": true,
+    "result_window_reached": false,
+    "stores": [
+      {
+        "store_id": 184713,
+        "external_id": "e9aa61db-54d3-43a0-bb2d-961b1d20ccb7",
+        "chain_id": 102015,
+        "brand_id": 0,
+        "name": "Carrefour EXPRESS",
+        "chain_type": "DARKSTORE",
+        "vertical": "hypermarket",
+        "cuisines": [
+          "Supermarkets"
+        ],
+        "rating": 4.5,
+        "rating_count": 57,
+        "status": "OPEN",
+        "status_indicator": null,
+        "label": {
+          "type": "PROMOTED",
+          "text": "Ad"
+        },
+        "sponsored": true,
+        "tags": [],
+        "promotions": [
+          {
+            "type": "FREE_DELIVERY",
+            "name": "Free delivery (Spend 30 SAR)",
+            "category": null,
+            "minimum_order": 30,
+            "icon_url": "https://hungerstation.dhmedia.io/image/hungerstation/rewards/icons/delivery_en.png"
+          }
+        ],
+        "incentives": [
+          {
+            "name": "Free Delivery & SR10 Voucher",
+            "type": "DELIVERY_FEE_PERCENTAGE_CUTBACK",
+            "minimum_order": 15,
+            "icon_url": "https://hungerstation.dhmedia.io/image/hungerstation/rewards/icons/delivery_en.png"
+          }
+        ],
+        "subscription_supported": true,
+        "delivery_type": "OWN_DELIVERY",
+        "delivery_name": "Fast Delivery",
+        "delivery_fee": 14,
+        "delivery_fee_is_default": false,
+        "delivery_fee_original": 14,
+        "delivery_fee_indicator": "NONE",
+        "delivery_fee_style": null,
+        "delivery_fee_style_legacy": "NORMAL",
+        "minimum_order": 30,
+        "distance": 3.8,
+        "distance_unit": "km",
+        "eta_min": 20,
+        "eta_max": 35,
+        "eta_text": "20 - 35",
+        "eta_unit": "mins",
+        "supports_scheduled_order": null,
+        "supports_pickup": false,
+        "expedition_types": [
+          "delivery"
+        ],
+        "latitude": 24.8089265,
+        "longitude": 46.6655749,
+        "logo": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo/ce6629478c63af6f454e94cc7667f972.jpg?quality=70&size=192",
+        "cover_photo": "https://images.deliveryhero.io/image/hungerstation/restaurant/android_cover_photo/340fa7cb4db6a6addcf3702bc550e58f.jpg",
+        "url": "https://hungerstation.com/sa-en/supermarkets/regions/riyadh/imam-mohamed-islamic-university/branch/carrefour-express-184713",
+        "products": [
+          {
+            "product_id": "93ab6105-55ab-4af0-b2d3-2f60a3cc7573",
+            "sku": "106475_6281007120401",
+            "name": "Almarai Full Fat Fresh Milk 2L",
+            "category_id": "8b236404-84c9-4153-9a19-e14ee8ce88a3",
+            "image": "https://hungerstation.dhmedia.io/image/product-information-management/68e63dcedd10097785c9f596.png",
+            "images": [
+              "https://hungerstation.dhmedia.io/image/product-information-management/68e63dcedd10097785c9f596.png",
+              "https://hungerstation.dhmedia.io/image/product-information-management/68e63dccdd10097785c9f43c.png"
+            ],
+            "price": 12.5,
+            "original_price": 12.5,
+            "label": null,
+            "promotions": [],
+            "is_available": true,
+            "stock_amount": 100,
+            "max_quantity": 8,
+            "sold_by_weight": null,
+            "minimum_weight": null,
+            "minimum_weight_price": 0,
+            "contents": {
+              "value": 2,
+              "unit": "l"
+            },
+            "price_per_base_unit": 6.25,
+            "base_unit": "l",
+            "barcodes": [
+              "00000000075480",
+              "06281007120401"
+            ],
+            "vat_percent": 15,
+            "packaging_charge": 0
+          },
+          {
+            "product_id": "1dfa07c3-cd93-4d58-afa7-2b4cce411321",
+            "sku": "106476_6281007120807",
+            "name": "Almarai Fresh Milk Full Fat 1L",
+            "category_id": "8b236404-84c9-4153-9a19-e14ee8ce88a3",
+            "image": "https://hungerstation.dhmedia.io/image/product-information-management/6900c263c3fb3af80ec3c914.jpg",
+            "images": [
+              "https://hungerstation.dhmedia.io/image/product-information-management/6900c263c3fb3af80ec3c914.jpg",
+              "https://hungerstation.dhmedia.io/image/product-information-management/6900c263e68b6ac78058cdfe.jpg"
+            ],
+            "price": 7,
+            "original_price": 7,
+            "label": null,
+            "promotions": [],
+            "is_available": true,
+            "stock_amount": 100,
+            "max_quantity": 8,
+            "sold_by_weight": null,
+            "minimum_weight": null,
+            "minimum_weight_price": 0,
+            "contents": {
+              "value": 1,
+              "unit": "l"
+            },
+            "price_per_base_unit": 7,
+            "base_unit": "l",
+            "barcodes": [
+              "06281007120807",
+              "00000000075497"
+            ],
+            "vat_percent": 15,
+            "packaging_charge": 0
+          }
+        ]
+      },
+      {
+        "store_id": 131452,
+        "external_id": "890c8a1d-10c7-4586-b741-03178bf5880e",
+        "chain_id": 70227,
+        "brand_id": 0,
+        "name": "Doos",
+        "chain_type": "DARKSTORE",
+        "vertical": "mini market",
+        "cuisines": [
+          "Supermarkets"
+        ],
+        "rating": 4.4,
+        "rating_count": 189,
+        "status": "OPEN",
+        "status_indicator": null,
+        "label": null,
+        "sponsored": false,
+        "tags": [
+          {
+            "type": "TOP",
+            "label": "Top Choice",
+            "icon": null
+          }
+        ],
+        "promotions": [
+          {
+            "type": "FREE_DELIVERY",
+            "name": "Free delivery (Spend 20 SAR)",
+            "category": null,
+            "minimum_order": 20,
+            "icon_url": "https://hungerstation.dhmedia.io/image/hungerstation/rewards/icons/delivery_en.png"
+          }
+        ],
+        "incentives": [
+          {
+            "name": "Free Delivery & SR10 Voucher",
+            "type": "DELIVERY_FEE_PERCENTAGE_CUTBACK",
+            "minimum_order": 15,
+            "icon_url": "https://hungerstation.dhmedia.io/image/hungerstation/rewards/icons/delivery_en.png"
+          }
+        ],
+        "subscription_supported": null,
+        "delivery_type": "OWN_DELIVERY",
+        "delivery_name": "Fast Delivery",
+        "delivery_fee": 20,
+        "delivery_fee_is_default": false,
+        "delivery_fee_original": 20,
+        "delivery_fee_indicator": "NONE",
+        "delivery_fee_style": null,
+        "delivery_fee_style_legacy": "NORMAL",
+        "minimum_order": 20,
+        "distance": 7.1,
+        "distance_unit": "km",
+        "eta_min": 20,
+        "eta_max": 35,
+        "eta_text": "20 - 35",
+        "eta_unit": "mins",
+        "supports_scheduled_order": true,
+        "supports_pickup": true,
+        "expedition_types": [
+          "delivery",
+          "pickup"
+        ],
+        "latitude": 24.75472664232184,
+        "longitude": 46.6764573932541,
+        "logo": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo/034d8760dc438488eeddf5739223f671.jpg?quality=70&size=192",
+        "cover_photo": "https://images.deliveryhero.io/image/hungerstation/restaurant/android_cover_photo/cfc1d860b4cc3fdf87a547c52939f7d1.jpg",
+        "url": "https://hungerstation.com/sa-en/supermarkets/regions/riyadh/imam-mohamed-islamic-university/branch/doos-131452",
+        "products": [
+          {
+            "product_id": "510ffb50-4c12-4095-9b2c-2ff26338a702",
+            "sku": "D00017411",
+            "name": "Mrbeast Almond Milk Chocolate 60g",
+            "category_id": "30150e71-eee7-422b-b298-39a5c1c0593f",
+            "image": "https://hungerstation.dhmedia.io/image/product-information-management/6a71bc0bd5758be5c484bcf5.jpg",
+            "images": [
+              "https://hungerstation.dhmedia.io/image/product-information-management/6a71bc0bd5758be5c484bcf5.jpg",
+              "https://hungerstation.dhmedia.io/image/product-information-management/698859c794a7cac8952a82db.png"
+            ],
+            "price": 14.94,
+            "original_price": 29.82,
+            "label": "Save 49%",
+            "promotions": [
+              {
+                "name": "Save 49%",
+                "type": "Strikethrough",
+                "discount_type": "FINAL_PRICE",
+                "discount_value": 14.94,
+                "weighted_discount_value": 0,
+                "bundle_price": 0,
+                "min_quantity": 1,
+                "discounted_quantity": 1,
+                "starts_at": "2026-09-08T06:31:52.569Z",
+                "ends_at": "2026-09-30T23:59:59Z"
+              }
+            ],
+            "is_available": true,
+            "stock_amount": 100,
+            "max_quantity": 3,
+            "sold_by_weight": null,
+            "minimum_weight": null,
+            "minimum_weight_price": 0,
+            "contents": {
+              "value": 60,
+              "unit": "g"
+            },
+            "price_per_base_unit": 249,
+            "base_unit": "kg",
+            "barcodes": [
+              "01230000168465"
+            ],
+            "vat_percent": 0,
+            "packaging_charge": 0
+          },
+          {
+            "product_id": "eabb3b2f-5368-4328-87db-a6cceedc58a8",
+            "sku": "D00000536",
+            "name": "Almarai Sweetened Condensed Milk 397g",
+            "category_id": "1e60339d-fdad-4073-be25-e6aad7bdeb9b",
+            "image": "https://hungerstation.dhmedia.io/image/product-information-management/699ee5724d2e6d458180ba09.png",
+            "images": [
+              "https://hungerstation.dhmedia.io/image/product-information-management/699ee5724d2e6d458180ba09.png",
+              "https://hungerstation.dhmedia.io/image/product-information-management/695f51a492e81edaaeb156c6.png"
+            ],
+            "price": 6.7,
+            "original_price": 13.99,
+            "label": "Save 52%",
+            "promotions": [
+              {
+                "name": "Save 52%",
+                "type": "Strikethrough",
+                "discount_type": "FINAL_PRICE",
+                "discount_value": 6.7,
+                "weighted_discount_value": 0,
+                "bundle_price": 0,
+                "min_quantity": 1,
+                "discounted_quantity": 1,
+                "starts_at": "2026-09-08T06:31:52.569Z",
+                "ends_at": "2026-09-30T23:59:59Z"
+              }
+            ],
+            "is_available": true,
+            "stock_amount": 100,
+            "max_quantity": 23,
+            "sold_by_weight": null,
+            "minimum_weight": null,
+            "minimum_weight_price": 0,
+            "contents": {
+              "value": 397,
+              "unit": "g"
+            },
+            "price_per_base_unit": 16.8766,
+            "base_unit": "kg",
+            "barcodes": [
+              "06281007046725"
+            ],
+            "vat_percent": 15,
+            "packaging_charge": 0
+          }
+        ]
+      }
+    ]
+  }
+}

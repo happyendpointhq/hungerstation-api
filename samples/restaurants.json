@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "data": {
+    "city": {
+      "city_id": 3,
+      "slug": "riyadh",
+      "slug_ar": "الرياض",
+      "name_en": "Riyadh",
+      "name_ar": "الرياض"
+    },
+    "district": {
+      "district_id": 85,
+      "slug": "imam-mohamed-islamic-university",
+      "slug_ar": "جامعة-الامام-محمد",
+      "name_en": "Imam Muhammad Ibn Saud Islamic University",
+      "name_ar": "جامعة الامام محمد",
+      "latitude": 24.81338091423363,
+      "longitude": 46.70321613550186
+    },
+    "cuisine": null,
+    "page": 1,
+    "page_size": 27,
+    "has_more": true,
+    "restaurants": [
+      {
+        "vendor_id": 188116,
+        "external_id": null,
+        "chain_id": 104542,
+        "name": "Pearl Sweet",
+        "chain_type": "RESTAURANT",
+        "vertical": "restaurants",
+        "home_module": "restaurants",
+        "is_darkstore": false,
+        "cuisines": [
+          "Arabic"
+        ],
+        "rating": 1,
+        "rating_count": 1,
+        "status": "OPEN",
+        "delivery_type": "OWN_DELIVERY",
+        "delivery_name": "Fast Delivery",
+        "delivery_fee": 17,
+        "delivery_fee_original": 17,
+        "delivery_fee_indicator": "NONE",
+        "minimum_order": 15,
+        "distance": 0.4,
+        "distance_unit": "km",
+        "eta_text": "30 - 45",
+        "eta_unit": "mins",
+        "latitude": 24.81522846210329,
+        "longitude": 46.69933503254089,
+        "logo": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo/b391a0057ee157083635218db34e4328.png",
+        "cover_photo": "https://images.deliveryhero.io/image/hungerstation/restaurant/android_cover_photo/ef0c34c1d3edcdf581c399240cbaa1f4.jpeg",
+        "url": "https://hungerstation.com/sa-en/restaurants/regions/riyadh/imam-mohamed-islamic-university/pearl-sweet-188116"
+      }
+    ]
+  }
+}
